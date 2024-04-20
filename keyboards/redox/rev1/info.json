@@ -15,7 +15,7 @@
     "mousekey": true,
     "extrakey": true,
     "nkro": true,
-    "rgblight": true
+    "rgblight": false
   },
   "split":{
     "enabled": true

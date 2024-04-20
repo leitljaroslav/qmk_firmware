@@ -3,8 +3,13 @@
         "device_version": "1.0.0"
     },
     "matrix_pins": {
-        "cols": ["F5", "F6", "F7", "B1", "B3", "B2", "B6"],
-        "rows": ["D4", "D7", "E6", "B4", "B5"]
+        //leva
+        // "cols": ["B5", "B3", "B1", "B4", "F7", "F6", "F5"]
+        // "rows": ["D7", "C6", "D4", "E6", "F4"]
+
+        //prava
+        "cols": ["F5", "F6", "F7", "B1", "B3", "B5", "B4"],
+        "rows": ["E6", "D7", "C6", "D4", "F4"]
     },
     "diode_direction": "COL2ROW",
     "split": {
@@ -15,3 +20,4 @@
     },
     "development_board": "promicro"
 }
+
